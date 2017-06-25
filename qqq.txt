@@ -4,3 +4,6 @@ local git update
 remote github update
 
 local git aaaaaaa
+
+local git aaaaaaa
+github  aaaaaaaaaaaaaaa
